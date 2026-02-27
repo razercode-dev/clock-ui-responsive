@@ -1,34 +1,23 @@
-\# Responsive Clock UI
+# Responsive Clock UI
+
+This is a Clock Modern Project-Based Learning
+
+## Screenshot
+
+![SC1}(assets/img/sc1.png)
 
 
-
-\## Screenshot
-
+![SC2}(assets/img/sc2.png)
 
 
-!\[SC1}(assets/img/sc1.png)
-
-
-
-!\[SC2}(assets/img/sc2.png)
-
-
-
-\## Inspired Video :
-
-
+## Inspired Video :
 
 https://www.youtube.com/watch?v=H4-lcB3dr-Q
 
 
-
-
-
-\##  Author
-
-
-
+##  Author
 Razer Code - 2026
+
 
 
 
